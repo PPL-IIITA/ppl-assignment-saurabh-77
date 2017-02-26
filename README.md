@@ -2,12 +2,13 @@
     By Saurabh Katiyar 
        RIT2015037
 
-Built in Windows 10.
+# Operating System used:
+    Windows 10
 
 # To run on command line:
 For Q1:
 1) Change directory to q1.
-2) Run following commands in command prompt 
+2) Run following commands in command prompt: 
 
     javac Boy.java
     javac Girl.java
@@ -17,8 +18,8 @@ For Q1:
     java Main1
 
 For Q2:
-1) Change directory to q2;
-2) Run following commands in command prompt 
+1) Change directory to q2.
+2) Run following commands in command prompt :
 
     javac Boy.java
     javac Girl.java
