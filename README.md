@@ -34,7 +34,7 @@ For Q2:
     
     java Main2
 
-For Documentation:
+Documentation:
 
 1) "/q1/documentation" contains documentation for q1.
 
