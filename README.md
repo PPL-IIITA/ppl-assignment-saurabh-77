@@ -34,3 +34,8 @@ For Q2:
     
     java Main2
 
+For Documentation:
+
+1) "/q1/documentation" contains documentation for q1.
+
+2) "/q2/javadoc" contains documentation for q2
