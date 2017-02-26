@@ -2,8 +2,7 @@
     By Saurabh Katiyar 
        RIT2015037
 
-# Operating System used:
-    Windows 10
+ Built in Windows 10.
 
 # To run on command line:
 For Q1: 
