@@ -6,8 +6,10 @@
     Windows 10
 
 # To run on command line:
-For Q1:
+For Q1: 
+
 1) Change directory to q1.
+
 2) Run following commands in command prompt: 
 
     javac Boy.java
@@ -18,7 +20,9 @@ For Q1:
     java Main1
 
 For Q2:
+
 1) Change directory to q2.
+
 2) Run following commands in command prompt :
 
     javac Boy.java
