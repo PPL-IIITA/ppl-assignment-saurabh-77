@@ -12,6 +12,7 @@ For Q1:
 2) Run following commands in command prompt: 
 
     javac Boy.java
+    
     javac Girl.java
     
     javac Generator.java
@@ -27,10 +28,15 @@ For Q2:
 2) Run following commands in command prompt :
 
     javac Boy.java
+    
     javac Girl.java
+    
     javac Generator.java
+    
     javac Gift.java
+    
     javac Couple.java
+    
     javac Main2.java
     
     java Main2
