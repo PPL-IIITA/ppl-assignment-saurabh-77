@@ -13,7 +13,9 @@ For Q1:
 
     javac Boy.java
     javac Girl.java
+    
     javac Generator.java
+    
     javac Main1.java
     
     java Main1
