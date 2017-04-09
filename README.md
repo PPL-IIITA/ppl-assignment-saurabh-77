@@ -69,5 +69,11 @@ For Q5:
 
 1) "/q1/documentation" contains documentation for q1.
 
-2) "/q2/javadoc" contains documentation for q2
+2) "/q2/javadoc" contains documentation for q2.
+
+3) "/q3/javadoc" contains documentation for q3.
+
+4) "/q24javadoc" contains documentation for q4.
+
+5) "/q5/javadoc" contains documentation for q5.
 
