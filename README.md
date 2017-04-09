@@ -12,8 +12,11 @@ For Q1:
 1) Change directory to q1.
 2) Run following commands in command prompt: 
     javac Boy.java
+    
     javac Girl.java
+    
     javac Main1.java
+    
     java Main1
 
 For Q2:
